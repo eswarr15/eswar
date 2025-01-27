@@ -12,6 +12,28 @@ Seeking an opportunity to further develop expertise in cloud technologies while 
 
 ---
 
+
+  <h4 align="left">Cloud Computing</h4>
+
+  <a href="https://www.credly.com/badges/8bb69d6f-dd05-4f4c-9323-134bcf5b1dd0/public_url" target="_blank" rel="noreferrer"> 
+  <img src="https://images.credly.com/size/220x220/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" alt="aws" width="150" height="150"/> 
+  </a>
+
+  <a href="https://www.credly.com/badges/a141f260-a0dd-4573-aaab-c2ba61da5e95/public_url" target="_blank" rel="noreferrer"> 
+  <img src="https://images.credly.com/size/220x220/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="aws" width="150" height="150"/> 
+  </a>
+
+  <a href="https://www.credly.com/badges/e18054dd-1301-4724-a4fc-b63b4087c60d/public_url" target="_blank" rel="noreferrer"> 
+  <img src="https://images.credly.com/size/220x220/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png" alt="aws" width="150" height="150"/> 
+  </a>
+
+  <a href="https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396/public_url" target="_blank" rel="noreferrer"> 
+  <img src="https://images.credly.com/size/220x220/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="aws" width="150" height="150"/> 
+  </a>
+
+
+<p align="left"></p>
+
 ### 🛠️ **Tech Skills**  
 - 🖥️ **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)  
 - ⚙️ **DevOps Tools:** ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat&logo=terraform&logoColor=white)  
