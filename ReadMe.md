@@ -1,5 +1,9 @@
 ### 👋 Hi, I'm **Eswar K**  
 🚀 **Cloud & DevOps Trainee** at **CYGNONEX**
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/MacBook-M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/Samsung-S23_Ultra-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>  
 
 ---
 
