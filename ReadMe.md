@@ -1,5 +1,15 @@
-# 💫 About Me:
-Hi, I'm Eswar K, currently working at CYGNONEX as a Cloud and DevOps Trainee. I specialize in cloud infrastructure, CI/CD pipelines, and automation using tools like AWS, Azure, Terraform, and Jenkins. I'm passionate about building efficient, scalable solutions and continuously improving my skills in cloud technologies.
+### 👋 Hi, I'm **Eswar K**  
+🚀 **Cloud & DevOps Trainee** at **CYGNONEX**  
+
+🔧 **Specialized In:**  
+- 🖥️ **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)  
+- ⚙️ **DevOps Tools:** ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat&logo=terraform&logoColor=white)  
+- 🛠️ **Languages:** ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)  
+
+💡 Passionate about building scalable solutions, automating workflows, and exploring the latest in cloud technology.  
+
+🌐 **Connect with Me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eswarkrishnamoorthy)  
 
 
 ## 🌐 Socials:
